@@ -7,3 +7,5 @@ return a + b + c
 }
 
 console.log(soma1(),soma1(3),soma1(1,2,3),soma1(0,0,0))
+
+console.log()
